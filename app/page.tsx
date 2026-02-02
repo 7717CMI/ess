@@ -516,10 +516,7 @@ export default function DashboardPage() {
 
                     {activeTab === 'customer-intelligence-database' && (
                       <div id="customer-intelligence-database-chart">
-                        <CustomerIntelligenceDatabase
-                          title="Customer Intelligence Database"
-                          height={600}
-                        />
+                        <CustomerIntelligenceDatabase />
                       </div>
                     )}
                   </>
@@ -615,10 +612,7 @@ export default function DashboardPage() {
                     {isChartVisible('customer-intelligence-database') && (
                       <div className="border-b pb-8">
                         <h3 className="text-lg font-semibold text-black mb-4">👤 Customer Intelligence Database</h3>
-                        <CustomerIntelligenceDatabase
-                          title="Customer Intelligence Database"
-                          height={600}
-                        />
+                        <CustomerIntelligenceDatabase />
                       </div>
                     )}
                   </div>
