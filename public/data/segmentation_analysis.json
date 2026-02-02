@@ -1,0 +1,44 @@
+{
+  "Europe": {
+    "By Product Type": {},
+    "By Capacity": {},
+    "By Application": {
+      "Utility & Grid Infrastructure": {
+        "Grid resilience & outage backup": {},
+        "Distribution substation support": {},
+        "Grid congestion relief": {},
+        "Transmission & distribution upgrade deferral": {},
+        "Grid stability support": {}
+      },
+      "Renewable Energy Integration": {
+        "Solar plant energy storage": {},
+        "Wind farm output stabilization": {},
+        "Renewable curtailment reduction": {},
+        "Hybrid renewable + storage projects": {},
+        "Peak renewable generation shifting": {}
+      },
+      "Commercial & Industrial Energy Storage": {
+        "Industrial backup power": {},
+        "Demand charge management": {},
+        "Peak shaving for manufacturing facilities": {},
+        "Data center backup support": {},
+        "Commercial infrastructure power support": {}
+      },
+      "Remote & Off-Grid Power Systems": {
+        "Remote community electrification": {},
+        "Island grid stabilization": {},
+        "Mining & remote industrial power support": {},
+        "Telecom infrastructure backup": {},
+        "Rural microgrid stabilization": {}
+      },
+      "Temporary & Mobile Power Infrastructure": {
+        "Temporary substations": {},
+        "Construction project power supply": {},
+        "Disaster recovery grid support": {},
+        "Event and temporary infrastructure power supply": {},
+        "Mobile energy storage deployment": {}
+      }
+    },
+    "By Country": {}
+  }
+}
